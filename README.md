@@ -1,0 +1,1 @@
+# Creating a Financial Analyst using OPENAI assistant API
